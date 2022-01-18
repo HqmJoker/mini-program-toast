@@ -1,0 +1,1 @@
+<button bindtap="goIndex">跳转首页</button>
